@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Septic backup help</title>
+  <desc id="desc">A professional illustration showing slow drains, backup warning signs, and a septic tank icon for septic backup help requests.</desc>
+  <rect width="900" height="560" fill="#f6fbf8"/>
+  <circle cx="144" cy="112" r="62" fill="#dff4ee"/>
+  <circle cx="762" cy="112" r="42" fill="#f1c27b"/>
+  <rect x="78" y="120" width="360" height="308" rx="26" fill="#fff" stroke="#d7e6df" stroke-width="8"/>
+  <rect x="126" y="198" width="264" height="90" rx="45" fill="#dff4ee" stroke="#176b5b" stroke-width="8"/>
+  <path d="M195 242h125" stroke="#176b5b" stroke-width="15" stroke-linecap="round"/>
+  <path d="M126 338h264" stroke="#17322b" stroke-width="18" stroke-linecap="round"/>
+  <path d="M258 338v88" stroke="#17322b" stroke-width="18" stroke-linecap="round"/>
+  <path d="M170 372c20 22 47 22 66 0s45-22 64 0 45 22 65 0" fill="none" stroke="#d9902f" stroke-width="12" stroke-linecap="round"/>
+  <g transform="translate(510 156)">
+    <path d="M132 0 264 240H0z" fill="#fff4df" stroke="#d9902f" stroke-width="10" stroke-linejoin="round"/>
+    <path d="M132 82v74" stroke="#17322b" stroke-width="18" stroke-linecap="round"/>
+    <circle cx="132" cy="192" r="12" fill="#17322b"/>
+  </g>
+  <g transform="translate(516 420)">
+    <rect x="0" y="0" width="292" height="58" rx="29" fill="#d7e6df" stroke="#17322b" stroke-width="7"/>
+    <path d="M54 30h184" stroke="#176b5b" stroke-width="10" stroke-linecap="round" opacity=".55"/>
+  </g>
+</svg>

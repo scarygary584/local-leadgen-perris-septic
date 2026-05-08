@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Drain field service help</title>
+  <desc id="desc">Drain field and leach field help visual with a residential yard, septic tank, underground field lines, and service request markers.</desc>
+  <rect width="900" height="560" fill="#eaf7f1"/>
+  <path d="M0 255c112-52 222-42 320-12s199 34 303 0 195-38 277 7v310H0z" fill="#80b98e"/>
+  <path d="M0 394h900v166H0z" fill="#a97848"/>
+  <g transform="translate(86 174)">
+    <rect x="24" y="75" width="218" height="132" rx="10" fill="#fff" stroke="#d7e6df" stroke-width="6"/>
+    <path d="M0 88 133 0l133 88" fill="none" stroke="#176b5b" stroke-width="16" stroke-linecap="round"/>
+    <rect x="66" y="124" width="50" height="83" fill="#d9902f"/>
+    <rect x="146" y="119" width="52" height="42" fill="#dff4ee" stroke="#176b5b" stroke-width="5"/>
+  </g>
+  <g transform="translate(210 425)">
+    <rect x="0" y="0" width="230" height="58" rx="29" fill="#d7e6df" stroke="#17322b" stroke-width="7"/>
+    <path d="M230 29h72c36 0 58 23 92 23s55-23 91-23h148" fill="none" stroke="#17322b" stroke-width="8" stroke-linecap="round"/>
+    <path d="M315 12v72M398 12v72M481 12v72M564 12v72" stroke="#176b5b" stroke-width="9" stroke-linecap="round" opacity=".75"/>
+    <path d="M321 58c31 16 58 16 86 0s56-16 84 0 55 16 86 0" fill="none" stroke="#d9902f" stroke-width="8" stroke-linecap="round" opacity=".9"/>
+  </g>
+  <g transform="translate(596 148)">
+    <path d="M68 0c38 0 68 30 68 68 0 52-68 128-68 128S0 120 0 68C0 30 30 0 68 0z" fill="#d9902f" stroke="#17322b" stroke-width="7"/>
+    <circle cx="68" cy="68" r="24" fill="#fff"/>
+  </g>
+</svg>
