@@ -4,8 +4,8 @@ window.LEADGEN_SITE_CONFIG = {
   serviceType: "septic service request intake",
   serviceEyebrow: "Perris septic service requests",
   ctaFormUrl: "https://tally.so/r/Me8xZp",
-  phoneDisplay: "(912) 955-4951",
-  phoneHref: "tel:+19129554951",
+  phoneDisplay: "(951) 625-1510",
+  phoneHref: "tel:+19516251510",
   seoTitle: "Perris Septic Help | Septic Tank Pumping & Service Requests",
   metaDescription:
     "Need septic tank service help in Perris, CA? Request help for septic pumping, septic backups, odors, inspections, drain field issues, and local septic service needs.",
