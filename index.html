@@ -37,7 +37,7 @@
           <a href="https://perrisseptichelp.com/#faq">FAQ</a>
           <a class="nav-phone" data-phone-link href="tel:+19516251510" data-phone-display>(951) 625-1510</a>
           <a class="button button-small button-call" data-phone-link href="tel:+19516251510">Call Septic Intake Line</a>
-          <a class="button button-small" data-cta-link href="https://tally.so/r/Me8xZp">Request Septic Help Online</a>
+          <a class="button button-small" data-cta-link href="#request-form">Request Septic Help Online</a>
         </div>
       </nav>
       <div class="top-disclaimer" role="note">
@@ -58,24 +58,25 @@
             </p>
             <div class="hero-actions">
               <a class="button button-call" data-phone-link href="tel:+19516251510">Call Septic Intake Line</a>
-              <a class="button button-secondary" data-cta-link href="https://tally.so/r/Me8xZp">Request Septic Help Online</a>
+              <a class="button button-secondary" data-cta-link href="#request-form">Request Septic Help Online</a>
             </div>
             <p class="microcopy">Perris Septic Help collects septic service requests and helps route them to local septic providers when available.</p>
             <p class="phone-inline">Prefer to call? <a data-phone-link href="tel:+19516251510" data-phone-display>(951) 625-1510</a></p>
           </div>
-          <aside class="hero-card" aria-label="Septic request summary">
-            <img class="card-image" src="assets/septic-tank-pumping-perris.svg" alt="septic tank pumping in Perris CA" />
-            <h2>Request help for:</h2>
-            <ul data-hero-bullets>
-              <li>Septic tank pumping requests</li>
-              <li>Septic backup help</li>
-              <li>Odor and slow drain concerns</li>
-              <li>Inspection and drain field requests</li>
-            </ul>
-            <div class="card-actions">
-              <a class="text-link" data-phone-link href="tel:+19516251510">Call (951) 625-1510</a>
-              <a class="text-link" data-cta-link href="https://tally.so/r/Me8xZp">Open the septic request form →</a>
-            </div>
+          <aside class="hero-card" id="request-form" aria-label="Septic service request form">
+            <p class="eyebrow">Prefer not to call?</p><h2>Request septic help</h2>
+            <p class="form-intro">Send the basic details below. Your request can be shared with an available septic service provider who may contact you.</p>
+            <form class="lead-form" action="https://api.web3forms.com/submit" method="POST" data-lead-form>
+              <input type="hidden" name="access_key" value="5422f3d7-8a31-4ada-9975-c98e15fb661d"><input type="hidden" name="subject" value="New Perris Septic Help lead"><input type="hidden" name="from_name" value="Perris Septic Help Website"><input type="hidden" name="lead_source" value="PerrisSepticHelp.com homepage"><input class="botcheck" type="checkbox" name="botcheck" tabindex="-1" autocomplete="off" aria-hidden="true">
+              <label>Full name<input type="text" name="name" autocomplete="name" required></label>
+              <label>Phone number<input type="tel" name="phone" autocomplete="tel" inputmode="tel" required></label>
+              <label>Email <span class="optional">(optional)</span><input type="email" name="email" autocomplete="email"></label>
+              <label>City or ZIP code<input type="text" name="city_or_zip" autocomplete="postal-code" required></label>
+              <label>What help do you need?<select name="septic_concern" required><option value="">Choose one</option><option>Septic tank pumping</option><option>Backup or overflowing concern</option><option>Odor or slow drains</option><option>Inspection request</option><option>Drain field concern</option><option>Not sure</option></select></label>
+              <label>Property and access details <span class="optional">(optional)</span><textarea name="details" rows="3" placeholder="Property type, symptoms, last pumping if known, gate or access notes…"></textarea></label>
+              <label class="consent-label"><input type="checkbox" name="contact_consent" value="Yes" required><span>I agree that Perris Septic Help may share this request with an available service provider who may call, text, or email me about it.</span></label>
+              <button class="button button-call form-submit" type="submit">Send My Request</button><p class="form-note">No availability, timing, price, diagnosis, or service is guaranteed. Confirm all details directly with the provider.</p><p class="form-status" data-form-status role="status" aria-live="polite"></p>
+            </form>
           </aside>
         </div>
       </section>
@@ -164,7 +165,7 @@
           </div>
           <div class="cta-actions">
             <a class="button button-light" data-phone-link href="tel:+19516251510">Call Septic Intake Line</a>
-            <a class="button button-light button-outline-light" data-cta-link href="https://tally.so/r/Me8xZp">Request Septic Help Online</a>
+            <a class="button button-light button-outline-light" data-cta-link href="#request-form">Request Septic Help Online</a>
           </div>
         </div>
       </section>
@@ -190,7 +191,7 @@
           <p class="footer-phone">Call: <a data-phone-link href="tel:+19516251510" data-phone-display>(951) 625-1510</a></p>
           <div class="footer-actions">
             <a class="button button-small button-call" data-phone-link href="tel:+19516251510">Call Septic Intake Line</a>
-            <a class="button button-small" data-cta-link href="https://tally.so/r/Me8xZp">Request Septic Help Online</a>
+            <a class="button button-small" data-cta-link href="#request-form">Request Septic Help Online</a>
           </div>
         </div>
         <div>
