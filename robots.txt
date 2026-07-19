@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://perrisseptichelp.com/sitemap.xml
+Sitemap: https://www.perrisseptichelp.com/sitemap.xml
