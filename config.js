@@ -6,10 +6,10 @@ window.LEADGEN_SITE_CONFIG = {
   ctaFormUrl: "#request-form",
   phoneDisplay: "(951) 468-9551",
   phoneHref: "tel:+19514689551",
-  seoTitle: "Perris Septic Help | Septic Tank Pumping & Service Requests",
+  seoTitle: "Septic Service Perris CA | Perris Septic Help",
   metaDescription: "Need septic tank service help in Perris, CA? Request help for septic pumping, backups, odors, inspections, drain field issues, and local septic service needs.",
   disclaimer: "Perris Septic Help connects customers with independent septic service providers. The provider confirms availability, pricing, qualifications, and work. Images are representative, not completed projects.",
-  heroTitle: "Septic Tank Pumping & Service Requests in Perris, CA",
+  heroTitle: "Septic Service Perris CA",
   heroText: "Septic backup, odors, slow drains, or tank pumping needed? Call or submit a request for septic service help in Perris and nearby areas.",
   heroBullets: [
     "Septic tank pumping requests",
