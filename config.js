@@ -3,12 +3,12 @@ window.LEADGEN_SITE_CONFIG = {
   domain: "PerrisSepticHelp.com",
   serviceType: "septic service help",
   serviceEyebrow: "Perris septic service requests",
-  ctaFormUrl: "https://tally.so/r/Me8xZp",
-  phoneDisplay: "(951) 625-1510",
-  phoneHref: "tel:+19516251510",
+  ctaFormUrl: "#request-form",
+  phoneDisplay: "(951) 468-9551",
+  phoneHref: "tel:+19514689551",
   seoTitle: "Perris Septic Help | Septic Tank Pumping & Service Requests",
   metaDescription: "Need septic tank service help in Perris, CA? Request help for septic pumping, backups, odors, inspections, drain field issues, and local septic service needs.",
-  disclaimer: "This site helps connect customers with independent septic service providers.",
+  disclaimer: "Perris Septic Help connects customers with independent septic service providers. The provider confirms availability, pricing, qualifications, and work. Images are representative, not completed projects.",
   heroTitle: "Septic Tank Pumping & Service Requests in Perris, CA",
   heroText: "Septic backup, odors, slow drains, or tank pumping needed? Call or submit a request for septic service help in Perris and nearby areas.",
   heroBullets: [
@@ -19,12 +19,12 @@ window.LEADGEN_SITE_CONFIG = {
   ],
   primaryAreas: ["Perris", "Mead Valley", "Good Hope", "Nuevo", "Romoland", "Homeland", "Menifee", "Lake Elsinore"],
   problems: [
-    { title: "Septic Tank Pumping", text: "Request septic tank pumping help in Perris when a tank may be full, drains are slowing, or routine pumping is due. Share the property location and access details.", image: "assets/septic-tank-pumping-perris.svg", imageAlt: "septic tank pumping in Perris CA" },
-    { title: "Septic Tank Cleaning", text: "Submit a septic tank cleaning request with notes about odors, previous pumping dates, household size, and whether the tank lids are exposed or need locating.", image: "assets/septic-service-request-perris.svg", imageAlt: "septic service request in Perris" },
-    { title: "Septic Backup Help", text: "Backups, gurgling drains, sewage smells, or wastewater around fixtures can require prompt attention. Call or use the online form to request help.", image: "assets/septic-backup-help.svg", imageAlt: "septic backup help" },
-    { title: "Septic Odor Help", text: "Persistent septic odors near drains, the tank area, or the yard can point to a system concern. Describe where the smell is strongest and when it started.", image: "assets/septic-service-request-perris.svg", imageAlt: "septic service request in Perris for septic odor help" },
-    { title: "Septic Inspection Requests", text: "Request a septic inspection for a property sale, purchase, maintenance concern, or suspected system problem. Send the location and timing details.", image: "assets/septic-inspection-request.svg", imageAlt: "septic inspection request" },
-    { title: "Drain Field / Leach Field Help", text: "Standing water, soggy soil, greener patches, or recurring drain issues may involve a drain field or leach field concern. Include yard access notes.", image: "assets/drain-field-service-help.svg", imageAlt: "drain field service help" }
+    { title: "Septic Tank Pumping", href: "/septic-tank-pumping-perris-ca/", text: "Request septic tank pumping help in Perris when a tank may be full, drains are slowing, or routine pumping is due. Share the property location and access details.", image: "/assets/truck.webp", imageAlt: "septic tank pumping in Perris CA" },
+    { title: "Septic Tank Cleaning", href: "/septic-tank-pumping-perris-ca/", text: "Submit a septic tank cleaning request with notes about odors, previous pumping dates, household size, and whether the tank lids are exposed or need locating.", image: "/assets/property.webp", imageAlt: "septic service request in Perris" },
+    { title: "Septic Backup Help", href: "/septic-backup-help-perris-ca/", text: "Backups, gurgling drains, sewage smells, or wastewater around fixtures can require prompt attention. Call or use the online form to request help.", image: "/assets/truck.webp", imageAlt: "septic backup help" },
+    { title: "Septic Odor Help", href: "/septic-odors-slow-drains-perris-ca/", text: "Persistent septic odors near drains, the tank area, or the yard can point to a system concern. Describe where the smell is strongest and when it started.", image: "/assets/property.webp", imageAlt: "septic service request in Perris for septic odor help" },
+    { title: "Septic Inspection Requests", href: "/septic-inspection-perris-ca/", text: "Request a septic inspection for a property sale, purchase, maintenance concern, or suspected system problem. Send the location and timing details.", image: "/assets/yard.webp", imageAlt: "septic inspection request" },
+    { title: "Drain Field / Leach Field Help", href: "/drain-field-help-perris-ca/", text: "Standing water, soggy soil, greener patches, or recurring drain issues may involve a drain field or leach field concern. Include yard access notes.", image: "/assets/yard.webp", imageAlt: "drain field service help" }
   ],
   steps: [
     { title: "Tell us what septic issue you’re dealing with.", text: "Call or submit the online request with a short description of the pumping, backup, odor, inspection, or drain field concern." },
